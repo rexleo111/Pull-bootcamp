@@ -1,0 +1,1 @@
+A forma em que eu fiz alguns dos mesmos problemas.
